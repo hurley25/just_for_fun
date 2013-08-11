@@ -1,0 +1,10 @@
+<RCC>
+	<qresource>
+		<file>res/bg.png</file>
+		<file>res/EyeClose.png</file>
+		<file>res/computer.png</file>
+		<file>res/computer_hover.png</file>
+		<file>res/computer_pressed.png</file>
+	</qresource>
+</RCC>
+
